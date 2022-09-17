@@ -5,7 +5,6 @@ import org.springframework.data.mongodb.repository.Query;
 import java.util.ArrayList;
 
 public class Wizards {
-    public ArrayList<Wizard> model;
 
 
 }
